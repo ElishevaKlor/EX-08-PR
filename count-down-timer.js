@@ -1,4 +1,4 @@
-
+console.log("Time is money... and this timer’s free!")
 let countdown = 10;
 
 function startCountdown() {
