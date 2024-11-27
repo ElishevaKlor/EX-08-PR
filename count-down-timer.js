@@ -1,5 +1,5 @@
 
-let countdown = 10;
+let countdown = 20;
 
 function startCountdown() {
     let timer = setInterval(() => {
