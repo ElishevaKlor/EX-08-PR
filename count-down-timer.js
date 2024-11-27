@@ -1,5 +1,8 @@
 
+
 let countdown = 20;
+console.log("Time is money... and this timer’s free!")
+
 
 function startCountdown() {
     let timer = setInterval(() => {
